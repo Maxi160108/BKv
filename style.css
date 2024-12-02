@@ -60,7 +60,7 @@ body{
     /*Cupones*/
     
     #cupones {
-        margin-left: 140px;
+        margin-left: 260px;
         justify-content: start;
         color:  brown;
         font-family:Verdana, Geneva, Tahoma, sans-serif
@@ -159,10 +159,11 @@ body{
     }
     
     .Nove{
-        margin-left: 140px;
+        margin-left: 260px;
         justify-content: start;
         color:  brown;
-        font-family:Verdana, Geneva, Tahoma, sans-serif
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+
     }
     
     .kingf{
